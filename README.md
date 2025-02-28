@@ -1,2 +1,5 @@
-# IT_Project_Marketing
-Repository ini berisi panduan dan script otomatisasi untuk mendukung pemasaran proyek TI, khususnya dalam membangun jaringan, strategi penawaran, digital marketing, dan follow-up.
+## 🎯 Tujuan
+- **Networking:** Membangun hubungan dengan calon klien di LinkedIn dan event bisnis.
+- **Strategi Penawaran:** Menyusun proposal yang menarik dan menawarkan solusi yang relevan.
+- **Digital Marketing:** Menggunakan SEO, ads, dan konten untuk menarik klien.
+- **Follow-up & Closing:** Mengelola prospek dan meningkatkan konversi menjadi proyek nyata.
